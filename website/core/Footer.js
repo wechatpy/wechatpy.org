@@ -48,7 +48,6 @@ class Footer extends React.Component {
           </div>
           <div>
             <h5>更多</h5>
-            <a href={`${this.props.config.baseUrl}blog`}>博客</a>
             <a href="https://github.com/wechatpy/wechatpy">GitHub</a>
             <a
               className="github-button"
